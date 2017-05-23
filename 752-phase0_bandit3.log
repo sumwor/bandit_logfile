@@ -1,0 +1,109 @@
+Scenario - phase0_bothports
+Logfile written - 05/20/2017 13:32:14
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+752	0	Manual	05/20/2017 13:29:02	-9962	-9962
+752	1	Sound	0	-9853	0	2			0		other	0
+752	2	Nothing	22	10190	0	1			0		other	0
+752	3	Sound	19	29724	0	2			0		other	0
+752	3	Response	1	44596	14872	1
+752	3	Response	1	55315	25591	2
+752	4	Sound	0	56779	0	1			0		other	0
+752	4	Response	1	66595	9816	1
+752	7	Nothing	3	68663	0	1			0		other	0
+752	8	Nothing	22	97712	0	1			0		other	0
+752	9	Sound	19	114067	0	2			0		other	0
+752	10	Sound	0	142573	0	2			0		other	0
+752	11	Nothing	22	162615	0	1			0		other	0
+752	12	Sound	19	173731	0	2			0		other	0
+752	13	Sound	0	195896	0	1			0		other	0
+752	14	Nothing	22	216049	0	1			0		other	0
+752	15	Sound	19	228718	0	2			0		other	0
+752	17	Sound	0	255287	0	2			0		other	0
+752	18	Nothing	22	275454	0	1			0		other	0
+752	19	Sound	19	287401	0	2			0		other	0
+752	20	Sound	0	316377	0	2			0		other	0
+752	21	Nothing	22	336435	0	1			0		other	0
+752	22	Sound	19	354148	0	2			0		other	0
+752	23	Sound	0	379734	0	2			0		other	0
+752	24	Nothing	22	399834	0	1			0		other	0
+752	25	Sound	19	413823	0	1			0		other	0
+752	25	Response	1	442583	28760	2
+752	26	Sound	0	443288	0	2			0		other	0
+752	26	Response	1	459143	15855	1
+752	29	Nothing	3	461206	0	1			0		other	0
+752	30	Nothing	22	490270	0	1			0		other	0
+752	31	Sound	19	507730	0	2			0		other	0
+752	32	Sound	0	532886	0	2			0		other	0
+752	33	Nothing	22	552988	0	1			0		other	0
+752	34	Sound	19	566053	0	2			0		other	0
+752	36	Sound	0	586661	0	2			0		other	0
+752	37	Nothing	22	606704	0	1			0		other	0
+752	38	Sound	19	617949	0	2			0		other	0
+752	39	Sound	0	642875	0	3			0		other	0
+752	40	Nothing	22	662969	0	1			0		other	0
+752	41	Sound	19	676880	0	2			0		other	0
+752	42	Sound	0	701076	0	2			0		other	0
+752	42	Response	1	707535	6459	2
+752	45	Nothing	3	709602	0	1			0		other	0
+752	46	Nothing	22	738643	0	1			0		other	0
+752	47	Sound	19	749095	0	2			0		other	0
+752	48	Sound	0	769624	0	2			0		other	0
+752	49	Nothing	22	789675	0	1			0		other	0
+752	50	Sound	19	801776	0	1			0		other	0
+752	51	Sound	0	825784	0	2			0		other	0
+752	52	Nothing	22	845878	0	1			0		other	0
+752	53	Sound	19	861035	0	2			0		other	0
+752	55	Sound	0	887659	0	2			0		other	0
+752	56	Nothing	22	907715	0	1			0		other	0
+752	57	Sound	19	925743	0	2			0		other	0
+752	58	Sound	0	955218	0	3			0		other	0
+752	59	Nothing	22	975290	0	1			0		other	0
+752	60	Sound	19	988242	0	2			0		other	0
+752	61	Sound	0	1009928	0	2			0		other	0
+752	62	Nothing	22	1030006	0	1			0		other	0
+752	63	Sound	19	1046215	0	3			0		other	0
+752	64	Sound	0	1069331	0	2			0		other	0
+752	65	Nothing	22	1089420	0	1			0		other	0
+752	66	Sound	19	1109139	0	1			0		other	0
+752	67	Sound	0	1136224	0	2			0		other	0
+752	68	Nothing	22	1156281	0	1			0		other	0
+752	69	Sound	19	1167877	0	2			0		other	0
+752	71	Sound	0	1188295	0	2			0		other	0
+752	72	Nothing	22	1208359	0	1			0		other	0
+752	73	Sound	19	1221398	0	1			0		other	0
+752	74	Sound	0	1247573	0	2			0		other	0
+752	75	Nothing	22	1267630	0	1			0		other	0
+752	76	Sound	19	1280253	0	3			0		other	0
+752	77	Sound	0	1304479	0	2			0		other	0
+752	78	Nothing	22	1324572	0	1			0		other	0
+752	79	Sound	19	1337802	0	1			0		other	0
+752	80	Sound	0	1367653	0	2			0		other	0
+752	81	Nothing	22	1387724	0	1			0		other	0
+752	82	Sound	19	1400897	0	2			0		other	0
+752	83	Sound	0	1426914	0	2			0		other	0
+752	84	Nothing	22	1447059	0	1			0		other	0
+752	85	Sound	19	1464011	0	2			0		other	0
+752	87	Sound	0	1484329	0	2			0		other	0
+752	88	Nothing	22	1504379	0	1			0		other	0
+752	89	Sound	19	1518676	0	2			0		other	0
+752	90	Sound	0	1541561	0	2			0		other	0
+752	91	Nothing	22	1561616	0	1			0		other	0
+752	92	Sound	19	1576807	0	1			0		other	0
+752	93	Sound	0	1603202	0	2			0		other	0
+752	94	Nothing	22	1623304	0	1			0		other	0
+752	95	Sound	19	1641905	0	2			0		other	0
+752	96	Sound	0	1664981	0	2			0		other	0
+752	97	Nothing	22	1685051	0	1			0		other	0
+752	98	Sound	19	1696663	0	2			0		other	0
+752	99	Sound	0	1725640	0	1			0		other	0
+752	100	Nothing	22	1745745	0	1			0		other	0
+752	101	Sound	19	1762420	0	2			0		other	0
+752	103	Sound	0	1784123	0	3			0		other	0
+752	104	Nothing	22	1804193	0	1			0		other	0
+752	105	Sound	19	1821519	0	2			0		other	0
+752	106	Sound	0	1849594	0	2			0		other	0
+752	107	Nothing	22	1869648	0	1			0		other	0
+752	108	Sound	19	1881420	0	2			0		other	0
+752	108	Quit		1904141	22721

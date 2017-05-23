@@ -1,0 +1,22 @@
+Scenario - phase0_bothports
+Logfile written - 05/21/2017 15:22:07
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+751	0	Manual	05/21/2017 15:21:56	-9994	-9994
+751	1	Sound	0	-9895	0	2			0		other	0
+751	2	Nothing	22	10167	0	1			0		other	0
+751	3	Sound	19	18445	0	2			0		other	0
+751	3	Response	3	20816	2371	1
+751	3	Response	3	40123	21678	1
+751	4	Sound	0	43895	0	2			0		other	0
+751	5	Nothing	22	63909	0	1			0		other	0
+751	6	Sound	19	69440	0	2			0		other	0
+751	6	Response	3	71375	1935	1
+751	6	Response	2	73004	3564	1
+751	6	Response	3	74776	5336	1
+751	6	Response	2	74776	5336	1
+751	6	Response	2	85361	15921	1
+751	6	Response	2	87309	17869	1
+751	7	Sound	0	93390	0	2			0		other	0
+751	7	Quit		97606	4216
