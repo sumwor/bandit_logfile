@@ -1,0 +1,654 @@
+Scenario - phase1_bothports
+Logfile written - 06/23/2017 09:58:12
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+751	0	Manual	06/23/2017 09:40:05	-9973	-9973
+751	1	Nothing	5	-9856	0	1			0		other	0
+751	2	Sound	0	-8843	0	2			0		other	0
+751	3	Nothing	6	11169	0	1			0		other	0
+751	4	Nothing	19	21214	0	1			0		miss	0
+751	5	Nothing	5	75705	0	1			0		other	0
+751	6	Sound	0	76719	0	2			0		other	0
+751	7	Nothing	6	96731	0	1			0		other	0
+751	8	Nothing	19	106778	0	1			0		miss	0
+751	9	Nothing	5	131258	0	1			0		other	0
+751	10	Sound	0	132274	0	2			0		other	0
+751	11	Nothing	6	152287	0	1			0		other	0
+751	12	Nothing	19	162334	0	1			0		miss	0
+751	13	Nothing	5	203323	0	1			0		other	0
+751	14	Sound	0	204337	0	2			0		other	0
+751	15	Nothing	6	224350	0	1			0		other	0
+751	16	Nothing	19	234399	0	1			0		miss	0
+751	18	Nothing	5	262858	0	1			0		other	0
+751	19	Sound	0	263871	0	2			0		other	0
+751	20	Nothing	6	283884	0	1			0		other	0
+751	21	Nothing	19	293936	0	1			0		miss	0
+751	22	Nothing	5	319925	0	1			0		other	0
+751	23	Sound	0	320938	0	2			0		other	0
+751	24	Nothing	6	340952	0	1			0		other	0
+751	25	Nothing	19	350999	0	1			0		miss	0
+751	26	Nothing	5	401125	0	1			0		other	0
+751	27	Sound	0	402139	0	2			0		other	0
+751	28	Nothing	6	422154	0	1			0		other	0
+751	29	Nothing	19	432197	0	1			0		miss	0
+751	30	Nothing	5	481684	0	1			0		other	0
+751	31	Sound	0	482697	0	2			0		other	0
+751	31	Response	1	489356	6659	1
+751	34	Nothing	10	504754	0	1			0		other	0
+751	35	Nothing	19	533808	0	1			0		miss	0
+751	36	Nothing	5	592334	0	1			0		other	0
+751	37	Sound	0	593348	0	2			0		other	0
+751	38	Nothing	6	613361	0	1			0		other	0
+751	39	Nothing	19	623405	0	1			0		miss	0
+751	41	Nothing	5	655950	0	1			0		other	0
+751	42	Sound	0	656963	0	2			0		other	0
+751	43	Nothing	6	676977	0	1			0		other	0
+751	44	Nothing	19	687022	0	1			0		miss	0
+751	45	Nothing	5	748699	0	1			0		other	0
+751	46	Sound	0	749712	0	2			0		other	0
+751	46	Response	1	757346	7634	1
+751	49	Nothing	10	771770	0	1			0		false_alarm	47
+751	49	Response	2	773118	1348	7
+751	50	Nothing	19	800828	0	1			0		miss	0
+751	51	Nothing	5	878468	0	1			0		other	0
+751	52	Sound	0	879481	0	2			0		other	0
+751	52	Response	2	883437	3956	5
+751	54	Nothing	10	900524	0	1			0		false_alarm	53
+751	54	Response	2	902389	1865	6
+751	54	Response	2	910258	9734	6
+751	54	Response	2	916773	16249	6
+751	54	Response	2	918668	18144	6
+751	55	Nothing	19	929573	0	1			0		miss	0
+751	56	Nothing	5	965169	0	1			0		other	0
+751	57	Sound	0	966181	0	2			0		other	0
+751	57	Response	2	981781	15600	6
+751	59	Nothing	10	987216	0	1			0		false_alarm	62
+751	59	Response	2	987646	430	6
+751	59	Response	2	990790	3574	6
+751	59	Response	2	993755	6539	6
+751	60	Nothing	19	1016265	0	1			0		miss	0
+751	61	Nothing	5	1051013	0	1			0		other	0
+751	62	Sound	0	1052026	0	2			0		other	0
+751	63	Nothing	6	1072040	0	1			0		other	0
+751	64	Nothing	19	1082087	0	1			0		hit	70
+751	64	Response	2	1123807	41720	6
+751	65	Nothing	19	1123843	0	1			0		miss	0
+751	67	Nothing	5	1160090	0	1			0		other	0
+751	68	Sound	0	1161104	0	2			0		other	0
+751	69	Nothing	6	1181117	0	1			0		other	0
+751	70	Nothing	19	1191166	0	1			0		hit	76
+751	70	Response	2	1225917	34751	6
+751	71	Nothing	19	1225953	0	1			0		miss	0
+751	72	Nothing	5	1280592	0	1			0		other	0
+751	73	Sound	0	1281605	0	2			0		other	0
+751	74	Nothing	6	1301619	0	1			0		other	0
+751	75	Nothing	19	1311667	0	1			0		miss	0
+751	76	Nothing	5	1336928	0	1			0		other	0
+751	77	Sound	0	1337940	0	2			0		other	0
+751	78	Nothing	6	1357953	0	1			0		other	0
+751	79	Nothing	19	1368002	0	1			0		miss	0
+751	80	Nothing	5	1407263	0	1			0		other	0
+751	81	Sound	0	1408297	0	2			0		other	0
+751	82	Nothing	6	1428309	0	1			0		other	0
+751	83	Nothing	19	1438364	0	1			0		miss	0
+751	84	Nothing	5	1480546	0	1			0		other	0
+751	85	Sound	0	1481560	0	2			0		other	0
+751	86	Nothing	6	1501574	0	1			0		other	0
+751	87	Nothing	19	1511625	0	1			0		miss	0
+751	89	Nothing	5	1548591	0	1			0		other	0
+751	90	Sound	0	1549603	0	2			0		other	0
+751	90	Response	1	1560756	11153	1
+751	93	Nothing	10	1571665	0	1			0		false_alarm	98
+751	93	Response	2	1571909	244	6
+751	93	Response	2	1574208	2543	6
+751	93	Response	2	1579516	7851	5
+751	94	Nothing	19	1600713	0	1			0		miss	0
+751	95	Nothing	5	1646721	0	1			0		other	0
+751	96	Sound	0	1647734	0	2			0		other	0
+751	97	Nothing	6	1667747	0	1			0		other	0
+751	98	Nothing	19	1677791	0	1			0		miss	0
+751	99	Nothing	5	1741459	0	1			0		other	0
+751	100	Sound	0	1742471	0	2			0		other	0
+751	100	Response	2	1752197	9726	6
+751	102	Nothing	10	1763508	0	1			0		false_alarm	110
+751	102	Response	2	1765002	1494	6
+751	102	Response	2	1776146	12638	6
+751	103	Nothing	19	1792556	0	1			0		miss	0
+751	104	Nothing	5	1838874	0	1			0		other	0
+751	105	Sound	0	1839887	0	1			0		other	0
+751	106	Nothing	6	1859899	0	1			0		other	0
+751	107	Nothing	19	1869928	0	1			0		miss	0
+751	108	Nothing	5	1896947	0	1			0		other	0
+751	109	Sound	0	1897959	0	2			0		other	0
+751	109	Response	2	1905826	7867	7
+751	111	Nothing	10	1918999	0	1			0		false_alarm	121
+751	111	Response	2	1921328	2329	6
+751	111	Response	2	1924662	5663	5
+751	111	Response	2	1927497	8498	6
+751	111	Response	2	1930483	11484	5
+751	111	Response	2	1932123	13124	6
+751	111	Response	2	1935034	16035	5
+751	112	Nothing	19	1948050	0	1			0		miss	0
+751	114	Nothing	5	1980228	0	1			0		other	0
+751	115	Sound	0	1981241	0	2			0		other	0
+751	115	Response	2	1989142	7901	6
+751	117	Nothing	10	2002281	0	1			0		false_alarm	132
+751	117	Response	2	2006235	3954	6
+751	117	Response	2	2013898	11617	6
+751	117	Response	2	2015480	13199	3
+751	118	Nothing	19	2031333	0	1			0		miss	0
+751	119	Nothing	5	2068620	0	1			0		other	0
+751	120	Sound	0	2069633	0	2			0		other	0
+751	121	Nothing	6	2089646	0	1			0		other	0
+751	122	Nothing	19	2099674	0	1			0		miss	0
+751	123	Nothing	5	2159401	0	1			0		other	0
+751	124	Sound	0	2160415	0	1			0		other	0
+751	125	Nothing	6	2180430	0	1			0		other	0
+751	126	Nothing	19	2190476	0	1			0		miss	0
+751	127	Nothing	5	2211006	0	1			0		other	0
+751	128	Sound	0	2212020	0	2			0		other	0
+751	129	Nothing	6	2232034	0	1			0		other	0
+751	130	Nothing	19	2242078	0	1			0		miss	0
+751	131	Nothing	5	2284187	0	1			0		other	0
+751	132	Sound	0	2285200	0	2			0		other	0
+751	133	Nothing	6	2305214	0	1			0		other	0
+751	134	Nothing	19	2315260	0	1			0		hit	152
+751	134	Response	2	2325545	10285	6
+751	135	Nothing	19	2325581	0	1			0		hit	154
+751	135	Response	2	2325883	302	7
+751	136	Nothing	19	2325918	0	1			0		miss	0
+751	138	Nothing	5	2364477	0	1			0		other	0
+751	139	Sound	0	2365489	0	3			0		other	0
+751	140	Nothing	6	2385502	0	1			0		other	0
+751	141	Nothing	19	2395556	0	1			0		miss	0
+751	142	Nothing	5	2420906	0	1			0		other	0
+751	143	Sound	0	2421919	0	2			0		other	0
+751	144	Nothing	6	2441932	0	1			0		other	0
+751	145	Nothing	19	2451986	0	1			0		miss	0
+751	146	Nothing	5	2518225	0	1			0		other	0
+751	147	Sound	0	2519239	0	2			0		other	0
+751	148	Nothing	6	2539253	0	1			0		other	0
+751	149	Nothing	19	2549301	0	1			0		miss	0
+751	150	Nothing	5	2578362	0	1			0		other	0
+751	151	Sound	0	2579375	0	2			0		other	0
+751	152	Nothing	6	2599387	0	1			0		other	0
+751	153	Nothing	19	2609435	0	1			0		miss	0
+751	154	Nothing	5	2663355	0	1			0		other	0
+751	155	Sound	0	2664368	0	2			0		other	0
+751	156	Nothing	6	2684380	0	1			0		other	0
+751	157	Nothing	19	2694435	0	1			0		miss	0
+751	159	Nothing	5	2725504	0	1			0		other	0
+751	160	Sound	0	2726516	0	2			0		other	0
+751	161	Nothing	6	2746530	0	1			0		other	0
+751	162	Nothing	19	2756575	0	1			0		miss	0
+751	163	Nothing	5	2817993	0	1			0		other	0
+751	164	Sound	0	2819005	0	2			0		other	0
+751	165	Nothing	6	2839016	0	1			0		other	0
+751	166	Nothing	19	2849062	0	1			0		miss	0
+751	167	Nothing	5	2891821	0	1			0		other	0
+751	168	Sound	0	2892834	0	2			0		other	0
+751	168	Response	1	2898140	5306	8
+751	171	Nothing	10	2914892	0	1			0		false_alarm	188
+751	171	Response	2	2915150	258	6
+751	171	Response	2	2919479	4587	6
+751	171	Response	2	2927876	12984	6
+751	171	Response	2	2932145	17253	6
+751	172	Nothing	19	2943940	0	1			0		miss	0
+751	173	Nothing	5	2970887	0	1			0		other	0
+751	174	Sound	0	2971899	0	2			0		other	0
+751	175	Nothing	6	2991911	0	1			0		other	0
+751	176	Nothing	19	3001956	0	1			0		miss	0
+751	177	Nothing	5	3075463	0	1			0		other	0
+751	178	Sound	0	3076476	0	2			0		other	0
+751	179	Nothing	6	3096490	0	1			0		other	0
+751	180	Nothing	19	3106536	0	1			0		miss	0
+751	182	Nothing	5	3159585	0	1			0		other	0
+751	183	Sound	0	3160597	0	2			0		other	0
+751	184	Nothing	6	3180610	0	1			0		other	0
+751	185	Nothing	19	3190655	0	1			0		miss	0
+751	186	Nothing	5	3225024	0	1			0		other	0
+751	187	Sound	0	3226035	0	2			0		other	0
+751	188	Nothing	6	3246049	0	1			0		other	0
+751	189	Nothing	19	3256094	0	1			0		miss	0
+751	190	Nothing	5	3308644	0	1			0		other	0
+751	191	Sound	0	3309657	0	2			0		other	0
+751	192	Nothing	6	3329671	0	1			0		other	0
+751	193	Nothing	19	3339716	0	1			0		miss	0
+751	194	Nothing	5	3371633	0	1			0		other	0
+751	195	Sound	0	3372647	0	2			0		other	0
+751	196	Nothing	6	3392660	0	1			0		other	0
+751	197	Nothing	19	3402705	0	1			0		miss	0
+751	198	Nothing	5	3442694	0	1			0		other	0
+751	199	Sound	0	3443707	0	2			0		other	0
+751	200	Nothing	6	3463721	0	1			0		other	0
+751	201	Nothing	19	3473766	0	1			0		miss	0
+751	203	Nothing	5	3543885	0	1			0		other	0
+751	204	Sound	0	3544898	0	2			0		other	0
+751	205	Nothing	6	3564912	0	1			0		other	0
+751	206	Nothing	19	3574975	0	1			0		miss	0
+751	207	Nothing	5	3619454	0	1			0		other	0
+751	208	Sound	0	3620468	0	2			0		other	0
+751	209	Nothing	6	3640481	0	1			0		other	0
+751	210	Nothing	19	3650526	0	1			0		miss	0
+751	211	Nothing	5	3685965	0	1			0		other	0
+751	212	Sound	0	3686977	0	2			0		other	0
+751	213	Nothing	6	3706990	0	1			0		other	0
+751	214	Nothing	19	3717037	0	1			0		miss	0
+751	215	Nothing	5	3757084	0	1			0		other	0
+751	216	Sound	0	3758098	0	2			0		other	0
+751	217	Nothing	6	3778112	0	1			0		other	0
+751	218	Nothing	19	3788158	0	1			0		miss	0
+751	219	Nothing	5	3855347	0	1			0		other	0
+751	220	Sound	0	3856360	0	2			0		other	0
+751	221	Nothing	6	3876373	0	1			0		other	0
+751	222	Nothing	19	3886421	0	1			0		miss	0
+751	224	Nothing	5	3947336	0	1			0		other	0
+751	225	Sound	0	3948348	0	2			0		other	0
+751	226	Nothing	6	3968360	0	1			0		other	0
+751	227	Nothing	19	3978405	0	1			0		miss	0
+751	228	Nothing	5	4015153	0	1			0		other	0
+751	229	Sound	0	4016166	0	2			0		other	0
+751	230	Nothing	6	4036180	0	1			0		other	0
+751	231	Nothing	19	4046230	0	1			0		miss	0
+751	232	Nothing	5	4101376	0	1			0		other	0
+751	233	Sound	0	4102390	0	2			0		other	0
+751	234	Nothing	6	4122414	0	1			0		other	0
+751	234	Response	1	4123541	1127	1
+751	235	Nothing	19	4132456	0	1			0		miss	0
+751	236	Nothing	5	4160974	0	1			0		other	0
+751	237	Sound	0	4161988	0	2			0		other	0
+751	237	Response	1	4173459	11471	1
+751	240	Nothing	10	4184047	0	1			0		false_alarm	258
+751	240	Response	2	4190902	6855	4
+751	241	Nothing	19	4213096	0	1			0		miss	0
+751	242	Nothing	5	4275322	0	1			0		other	0
+751	243	Sound	0	4276332	0	2			0		other	0
+751	244	Nothing	6	4296344	0	1			0		other	0
+751	245	Nothing	19	4306389	0	1			0		miss	0
+751	247	Nothing	5	4338151	0	1			0		other	0
+751	248	Sound	0	4339164	0	2			0		other	0
+751	249	Nothing	6	4359177	0	1			0		other	0
+751	250	Nothing	19	4369223	0	1			0		miss	0
+751	251	Nothing	5	4426543	0	1			0		other	0
+751	252	Sound	0	4427555	0	2			0		other	0
+751	253	Nothing	6	4447567	0	1			0		other	0
+751	254	Nothing	19	4457611	0	1			0		miss	0
+751	255	Nothing	5	4481718	0	1			0		other	0
+751	256	Sound	0	4482731	0	2			0		other	0
+751	257	Nothing	6	4502745	0	1			0		other	0
+751	258	Nothing	19	4512791	0	1			0		miss	0
+751	259	Nothing	5	4549040	0	1			0		other	0
+751	260	Sound	0	4550053	0	2			0		other	0
+751	261	Nothing	6	4570066	0	1			0		other	0
+751	262	Nothing	19	4580111	0	1			0		miss	0
+751	263	Nothing	5	4600847	0	1			0		other	0
+751	264	Sound	0	4601860	0	2			0		other	0
+751	265	Nothing	6	4621874	0	1			0		other	0
+751	266	Nothing	19	4631923	0	1			0		miss	0
+751	268	Nothing	5	4669827	0	1			0		other	0
+751	269	Sound	0	4670841	0	2			0		other	0
+751	270	Nothing	6	4690853	0	1			0		other	0
+751	271	Nothing	19	4700898	0	1			0		miss	0
+751	272	Nothing	5	4767155	0	1			0		other	0
+751	273	Sound	0	4768168	0	2			0		other	0
+751	274	Nothing	6	4788181	0	1			0		other	0
+751	275	Nothing	19	4798227	0	1			0		miss	0
+751	276	Nothing	5	4848844	0	1			0		other	0
+751	277	Sound	0	4849858	0	2			0		other	0
+751	278	Nothing	6	4869869	0	1			0		other	0
+751	279	Nothing	19	4879914	0	1			0		miss	0
+751	280	Nothing	5	4944120	0	1			0		other	0
+751	281	Sound	0	4945132	0	2			0		other	0
+751	282	Nothing	6	4965145	0	1			0		other	0
+751	283	Nothing	19	4975191	0	1			0		miss	0
+751	284	Nothing	5	5046060	0	1			0		other	0
+751	285	Sound	0	5047072	0	2			0		other	0
+751	286	Nothing	6	5067084	0	1			0		other	0
+751	287	Nothing	19	5077129	0	1			0		hit	304
+751	287	Response	2	5088626	11497	5
+751	288	Nothing	19	5088661	0	1			0		hit	306
+751	288	Response	2	5088788	127	6
+751	289	Nothing	19	5088828	0	1			0		hit	308
+751	289	Response	2	5088960	132	6
+751	290	Nothing	19	5088997	0	1			0		hit	310
+751	290	Response	2	5089112	115	6
+751	291	Nothing	19	5089145	0	1			0		miss	0
+751	293	Nothing	5	5124902	0	1			0		other	0
+751	294	Sound	0	5125916	0	2			0		other	0
+751	295	Nothing	6	5145929	0	1			0		other	0
+751	296	Nothing	19	5155973	0	1			0		miss	0
+751	297	Nothing	5	5185600	0	1			0		other	0
+751	298	Sound	0	5186613	0	2			0		other	0
+751	299	Nothing	6	5206627	0	1			0		other	0
+751	300	Nothing	19	5216675	0	1			0		miss	0
+751	301	Nothing	5	5255162	0	1			0		other	0
+751	302	Sound	0	5256175	0	2			0		other	0
+751	303	Nothing	6	5276188	0	1			0		other	0
+751	304	Nothing	19	5286234	0	1			0		miss	0
+751	305	Nothing	5	5349131	0	1			0		other	0
+751	306	Sound	0	5350144	0	2			0		other	0
+751	307	Nothing	6	5370158	0	1			0		other	0
+751	308	Nothing	19	5380213	0	1			0		miss	0
+751	309	Nothing	5	5423574	0	1			0		other	0
+751	310	Sound	0	5424587	0	2			0		other	0
+751	311	Nothing	6	5444600	0	1			0		other	0
+751	312	Nothing	19	5454642	0	1			0		miss	0
+751	314	Nothing	5	5521815	0	1			0		other	0
+751	315	Sound	0	5522827	0	2			0		other	0
+751	316	Nothing	6	5542842	0	1			0		other	0
+751	317	Nothing	19	5552887	0	1			0		miss	0
+751	318	Nothing	5	5597343	0	1			0		other	0
+751	319	Sound	0	5598358	0	2			0		other	0
+751	319	Response	1	5604286	5928	1
+751	322	Nothing	10	5620416	0	1			0		false_alarm	340
+751	322	Response	2	5620812	396	5
+751	322	Response	2	5624381	3965	6
+751	323	Nothing	19	5649463	0	1			0		hit	343
+751	323	Response	2	5677896	28433	6
+751	324	Nothing	19	5677936	0	2			0		hit	345
+751	324	Response	2	5685037	7101	6
+751	325	Nothing	19	5685074	0	1			0		miss	0
+751	326	Nothing	5	5726262	0	1			0		other	0
+751	327	Sound	0	5727276	0	2			0		other	0
+751	328	Nothing	6	5747288	0	1			0		other	0
+751	329	Nothing	19	5757334	0	1			0		miss	0
+751	330	Nothing	5	5804803	0	1			0		other	0
+751	331	Sound	0	5805814	0	2			0		other	0
+751	332	Nothing	6	5825827	0	1			0		other	0
+751	333	Nothing	19	5835871	0	1			0		miss	0
+751	334	Nothing	5	5904799	0	1			0		other	0
+751	335	Sound	0	5905808	0	2			0		other	0
+751	336	Nothing	6	5925821	0	1			0		other	0
+751	337	Nothing	19	5935867	0	1			0		miss	0
+751	339	Nothing	5	5962236	0	1			0		other	0
+751	340	Sound	0	5963247	0	2			0		other	0
+751	341	Nothing	6	5983260	0	1			0		other	0
+751	342	Nothing	19	5993305	0	1			0		miss	0
+751	343	Nothing	5	6027064	0	1			0		other	0
+751	344	Sound	0	6028076	0	2			0		other	0
+751	345	Nothing	6	6048090	0	1			0		other	0
+751	346	Nothing	19	6058135	0	1			0		miss	0
+751	347	Nothing	5	6090084	0	1			0		other	0
+751	348	Sound	0	6091096	0	2			0		other	0
+751	349	Nothing	6	6111110	0	1			0		other	0
+751	350	Nothing	19	6121156	0	1			0		hit	371
+751	350	Response	2	6127165	6009	5
+751	351	Nothing	19	6127205	0	1			0		miss	0
+751	352	Nothing	5	6170004	0	1			0		other	0
+751	353	Sound	0	6171018	0	2			0		other	0
+751	354	Nothing	6	6191033	0	1			0		other	0
+751	355	Nothing	19	6201077	0	1			0		miss	0
+751	356	Nothing	5	6235536	0	1			0		other	0
+751	357	Sound	0	6236547	0	2			0		other	0
+751	358	Nothing	6	6256560	0	1			0		other	0
+751	359	Nothing	19	6266606	0	1			0		miss	0
+751	361	Nothing	5	6308720	0	1			0		other	0
+751	362	Sound	0	6309733	0	2			0		other	0
+751	363	Nothing	6	6329747	0	1			0		other	0
+751	364	Nothing	19	6339791	0	1			0		miss	0
+751	365	Nothing	5	6382300	0	1			0		other	0
+751	366	Sound	0	6383314	0	2			0		other	0
+751	367	Nothing	6	6403327	0	1			0		other	0
+751	368	Nothing	19	6413372	0	1			0		miss	0
+751	369	Nothing	5	6443452	0	1			0		other	0
+751	370	Sound	0	6444466	0	2			0		other	0
+751	371	Nothing	6	6464480	0	1			0		other	0
+751	372	Nothing	19	6474527	0	1			0		miss	0
+751	373	Nothing	5	6497366	0	1			0		other	0
+751	374	Sound	0	6498380	0	2			0		other	0
+751	375	Nothing	6	6518394	0	1			0		other	0
+751	376	Nothing	19	6528440	0	1			0		miss	0
+751	377	Nothing	5	6565057	0	1			0		other	0
+751	378	Sound	0	6566070	0	2			0		other	0
+751	379	Nothing	6	6586083	0	1			0		other	0
+751	380	Nothing	19	6596129	0	1			0		miss	0
+751	382	Nothing	5	6636299	0	1			0		other	0
+751	383	Sound	0	6637312	0	2			0		other	0
+751	384	Nothing	6	6657325	0	1			0		other	0
+751	385	Nothing	19	6667372	0	1			0		miss	0
+751	386	Nothing	5	6689621	0	1			0		other	0
+751	387	Sound	0	6690634	0	2			0		other	0
+751	388	Nothing	6	6710648	0	1			0		other	0
+751	389	Nothing	19	6720692	0	1			0		miss	0
+751	390	Nothing	5	6749920	0	1			0		other	0
+751	391	Sound	0	6750932	0	2			0		other	0
+751	392	Nothing	6	6770946	0	1			0		other	0
+751	393	Nothing	19	6780993	0	1			0		miss	0
+751	394	Nothing	5	6839381	0	1			0		other	0
+751	395	Sound	0	6840392	0	2			0		other	0
+751	395	Response	1	6847040	6648	1
+751	398	Nothing	10	6862453	0	1			0		false_alarm	417
+751	398	Response	2	6867067	4614	5
+751	398	Response	2	6869524	7071	5
+751	398	Response	2	6872221	9768	6
+751	399	Nothing	19	6891501	0	1			0		miss	0
+751	400	Nothing	5	6932531	0	1			0		other	0
+751	401	Sound	0	6933545	0	2			0		other	0
+751	402	Nothing	6	6953559	0	1			0		other	0
+751	403	Nothing	19	6963610	0	1			0		miss	0
+751	405	Nothing	5	6995615	0	1			0		other	0
+751	406	Sound	0	6996628	0	1			0		other	0
+751	407	Nothing	6	7016638	0	1			0		other	0
+751	408	Nothing	19	7026683	0	1			0		miss	0
+751	409	Nothing	5	7073723	0	1			0		other	0
+751	410	Sound	0	7074737	0	2			0		other	0
+751	411	Nothing	6	7094751	0	1			0		other	0
+751	412	Nothing	19	7104794	0	1			0		miss	0
+751	413	Nothing	5	7143492	0	1			0		other	0
+751	414	Sound	0	7144506	0	2			0		other	0
+751	415	Nothing	6	7164519	0	1			0		other	0
+751	416	Nothing	19	7174566	0	1			0		miss	0
+751	417	Nothing	5	7198945	0	1			0		other	0
+751	418	Sound	0	7199958	0	2			0		other	0
+751	419	Nothing	6	7219972	0	1			0		other	0
+751	420	Nothing	19	7230019	0	1			0		miss	0
+751	421	Nothing	5	7253626	0	1			0		other	0
+751	422	Sound	0	7254637	0	2			0		other	0
+751	423	Nothing	6	7274650	0	1			0		other	0
+751	424	Nothing	19	7284697	0	1			0		miss	0
+751	426	Nothing	5	7310940	0	1			0		other	0
+751	427	Sound	0	7311953	0	2			0		other	0
+751	428	Nothing	6	7331966	0	1			0		other	0
+751	429	Nothing	19	7342015	0	1			0		miss	0
+751	430	Nothing	5	7391993	0	1			0		other	0
+751	431	Sound	0	7393005	0	2			0		other	0
+751	432	Nothing	6	7413018	0	1			0		other	0
+751	433	Nothing	19	7423064	0	1			0		miss	0
+751	434	Nothing	5	7477742	0	1			0		other	0
+751	435	Sound	0	7478755	0	2			0		other	0
+751	436	Nothing	6	7498765	0	1			0		other	0
+751	437	Nothing	19	7508811	0	1			0		miss	0
+751	438	Nothing	5	7534299	0	1			0		other	0
+751	439	Sound	0	7535313	0	1			0		other	0
+751	440	Nothing	6	7555327	0	1			0		other	0
+751	441	Nothing	19	7565371	0	1			0		miss	0
+751	442	Nothing	5	7593110	0	1			0		other	0
+751	443	Sound	0	7594123	0	2			0		other	0
+751	444	Nothing	6	7614136	0	1			0		other	0
+751	445	Nothing	19	7624180	0	2			0		miss	0
+751	447	Nothing	5	7647219	0	1			0		other	0
+751	448	Sound	0	7648232	0	2			0		other	0
+751	449	Nothing	6	7668246	0	1			0		other	0
+751	450	Nothing	19	7678297	0	1			0		miss	0
+751	451	Nothing	5	7728044	0	1			0		other	0
+751	452	Sound	0	7729056	0	2			0		other	0
+751	453	Nothing	6	7749068	0	1			0		other	0
+751	454	Nothing	19	7759115	0	1			0		miss	0
+751	455	Nothing	5	7783262	0	1			0		other	0
+751	456	Sound	0	7784276	0	2			0		other	0
+751	457	Nothing	6	7804290	0	1			0		other	0
+751	458	Nothing	19	7814346	0	1			0		miss	0
+751	459	Nothing	5	7842445	0	1			0		other	0
+751	460	Sound	0	7843457	0	2			0		other	0
+751	461	Nothing	6	7863468	0	1			0		other	0
+751	462	Nothing	19	7873513	0	1			0		miss	0
+751	463	Nothing	5	7940129	0	1			0		other	0
+751	464	Sound	0	7941143	0	1			0		other	0
+751	465	Nothing	6	7961155	0	2			0		other	0
+751	466	Nothing	19	7971201	0	1			0		miss	0
+751	468	Nothing	5	8022240	0	1			0		other	0
+751	469	Sound	0	8023255	0	2			0		other	0
+751	469	Response	2	8043120	19865	6
+751	470	Response	2	8043294	17	4
+751	470	Response	2	8043452	175	5
+751	471	Nothing	10	8044291	0	1			0		false_alarm	491
+751	471	Response	2	8045806	1515	6
+751	472	Nothing	19	8073340	0	1			0		hit	493
+751	472	Response	2	8132920	59580	6
+751	473	Nothing	19	8132958	0	1			0		hit	495
+751	473	Response	2	8139386	6428	6
+751	474	Nothing	19	8139421	0	1			0		miss	0
+751	475	Nothing	5	8171871	0	1			0		other	0
+751	476	Sound	0	8172884	0	2			0		other	0
+751	477	Nothing	6	8192894	0	1			0		other	0
+751	478	Nothing	19	8202947	0	1			0		miss	0
+751	479	Nothing	5	8231954	0	1			0		other	0
+751	480	Sound	0	8232967	0	2			0		other	0
+751	481	Nothing	6	8252981	0	1			0		other	0
+751	482	Nothing	19	8263028	0	1			0		miss	0
+751	483	Nothing	5	8324849	0	1			0		other	0
+751	484	Sound	0	8325862	0	2			0		other	0
+751	485	Nothing	6	8345874	0	1			0		other	0
+751	486	Nothing	19	8355917	0	1			0		miss	0
+751	487	Nothing	5	8419016	0	1			0		other	0
+751	488	Sound	0	8420030	0	2			0		other	0
+751	489	Nothing	6	8440042	0	1			0		other	0
+751	490	Nothing	19	8450087	0	1			0		miss	0
+751	492	Nothing	5	8494108	0	1			0		other	0
+751	493	Sound	0	8495122	0	2			0		other	0
+751	494	Nothing	6	8515136	0	1			0		other	0
+751	495	Nothing	19	8525180	0	1			0		miss	0
+751	496	Nothing	5	8571929	0	1			0		other	0
+751	497	Sound	0	8572942	0	1			0		other	0
+751	498	Nothing	6	8592956	0	1			0		other	0
+751	499	Nothing	19	8603002	0	1			0		miss	0
+751	500	Nothing	5	8625491	0	1			0		other	0
+751	501	Sound	0	8626505	0	2			0		other	0
+751	502	Nothing	6	8646515	0	1			0		other	0
+751	503	Nothing	19	8656564	0	1			0		miss	0
+751	504	Nothing	5	8679523	0	1			0		other	0
+751	505	Sound	0	8680536	0	2			0		other	0
+751	506	Nothing	6	8700549	0	1			0		other	0
+751	507	Nothing	19	8710594	0	1			0		miss	0
+751	508	Nothing	5	8746151	0	1			0		other	0
+751	509	Sound	0	8747164	0	2			0		other	0
+751	510	Nothing	6	8767174	0	1			0		other	0
+751	511	Nothing	19	8777220	0	1			0		miss	0
+751	513	Nothing	5	8804143	0	1			0		other	0
+751	514	Sound	0	8805155	0	2			0		other	0
+751	515	Nothing	6	8825167	0	1			0		other	0
+751	516	Nothing	19	8835214	0	1			0		miss	0
+751	517	Nothing	5	8879873	0	1			0		other	0
+751	518	Sound	0	8880885	0	2			0		other	0
+751	519	Nothing	6	8900898	0	1			0		other	0
+751	520	Nothing	19	8910943	0	1			0		miss	0
+751	521	Nothing	5	8931191	0	1			0		other	0
+751	522	Sound	0	8932204	0	2			0		other	0
+751	523	Nothing	6	8952217	0	1			0		other	0
+751	524	Nothing	19	8962265	0	1			0		miss	0
+751	525	Nothing	5	9015844	0	1			0		other	0
+751	526	Sound	0	9016856	0	2			0		other	0
+751	527	Nothing	6	9036868	0	1			0		other	0
+751	528	Nothing	19	9046914	0	1			0		miss	0
+751	529	Nothing	5	9069754	0	1			0		other	0
+751	530	Sound	0	9070767	0	2			0		other	0
+751	531	Nothing	6	9090780	0	1			0		other	0
+751	532	Nothing	19	9100831	0	1			0		miss	0
+751	534	Nothing	5	9166071	0	1			0		other	0
+751	535	Sound	0	9167085	0	1			0		other	0
+751	536	Nothing	6	9187097	0	2			0		other	0
+751	537	Nothing	19	9197146	0	1			0		miss	0
+751	538	Nothing	5	9221148	0	1			0		other	0
+751	539	Sound	0	9222163	0	1			0		other	0
+751	540	Nothing	6	9242177	0	1			0		other	0
+751	541	Nothing	19	9252224	0	1			0		miss	0
+751	542	Nothing	5	9278431	0	1			0		other	0
+751	543	Sound	0	9279443	0	2			0		other	0
+751	543	Response	1	9298223	18780	7
+751	546	Nothing	10	9301502	0	1			0		false_alarm	565
+751	546	Response	2	9304739	3237	6
+751	546	Response	2	9308541	7039	5
+751	546	Response	2	9312459	10957	6
+751	546	Response	2	9320668	19166	6
+751	547	Nothing	19	9330551	0	1			0		miss	0
+751	548	Nothing	5	9352020	0	1			0		other	0
+751	549	Sound	0	9353033	0	2			0		other	0
+751	550	Nothing	6	9373044	0	1			0		other	0
+751	551	Nothing	19	9383090	0	1			0		miss	0
+751	552	Nothing	5	9425255	0	1			0		other	0
+751	553	Sound	0	9426267	0	2			0		other	0
+751	554	Nothing	6	9446280	0	1			0		other	0
+751	555	Nothing	19	9456334	0	1			0		miss	0
+751	557	Nothing	5	9497394	0	1			0		other	0
+751	558	Sound	0	9498407	0	2			0		other	0
+751	559	Nothing	6	9518421	0	1			0		other	0
+751	560	Nothing	19	9528469	0	1			0		miss	0
+751	561	Nothing	5	9592223	0	1			0		other	0
+751	562	Sound	0	9593236	0	2			0		other	0
+751	563	Nothing	6	9613250	0	1			0		other	0
+751	564	Nothing	19	9623298	0	1			0		miss	0
+751	565	Nothing	5	9672338	0	1			0		other	0
+751	566	Sound	0	9673351	0	2			0		other	0
+751	567	Nothing	6	9693365	0	1			0		other	0
+751	568	Nothing	19	9703412	0	1			0		miss	0
+751	569	Nothing	5	9756953	0	1			0		other	0
+751	570	Sound	0	9757966	0	2			0		other	0
+751	571	Nothing	6	9777979	0	1			0		other	0
+751	572	Nothing	19	9788033	0	1			0		miss	0
+751	573	Nothing	5	9812136	0	1			0		other	0
+751	574	Sound	0	9813147	0	2			0		other	0
+751	575	Nothing	6	9833159	0	1			0		other	0
+751	576	Nothing	19	9843209	0	1			0		miss	0
+751	578	Nothing	5	9865057	0	1			0		other	0
+751	579	Sound	0	9866070	0	2			0		other	0
+751	580	Nothing	6	9886084	0	1			0		other	0
+751	581	Nothing	19	9896132	0	1			0		miss	0
+751	582	Nothing	5	9971890	0	1			0		other	0
+751	583	Sound	0	9972905	0	2			0		other	0
+751	584	Nothing	6	9992914	0	1			0		other	0
+751	585	Nothing	19	10002960	0	1			0		miss	0
+751	586	Nothing	5	10028767	0	1			0		other	0
+751	587	Sound	0	10029780	0	2			0		other	0
+751	588	Nothing	6	10049794	0	1			0		other	0
+751	589	Nothing	19	10059839	0	1			0		miss	0
+751	590	Nothing	5	10081538	0	1			0		other	0
+751	591	Sound	0	10082550	0	3			0		other	0
+751	592	Nothing	6	10102562	0	1			0		other	0
+751	593	Nothing	19	10112609	0	1			0		miss	0
+751	594	Nothing	5	10142398	0	1			0		other	0
+751	595	Sound	0	10143408	0	2			0		other	0
+751	596	Nothing	6	10163421	0	1			0		other	0
+751	597	Nothing	19	10173467	0	1			0		miss	0
+751	599	Nothing	5	10244228	0	1			0		other	0
+751	600	Sound	0	10245242	0	2			0		other	0
+751	601	Nothing	6	10265256	0	1			0		other	0
+751	602	Nothing	19	10275303	0	1			0		miss	0
+751	603	Nothing	5	10299632	0	2			0		other	0
+751	604	Sound	0	10300646	0	2			0		other	0
+751	605	Nothing	6	10320659	0	1			0		other	0
+751	606	Nothing	19	10330704	0	1			0		miss	0
+751	607	Nothing	5	10361100	0	1			0		other	0
+751	608	Sound	0	10362113	0	2			0		other	0
+751	609	Nothing	6	10382127	0	1			0		other	0
+751	610	Nothing	19	10392170	0	1			0		miss	0
+751	611	Nothing	5	10467539	0	1			0		other	0
+751	612	Sound	0	10468552	0	2			0		other	0
+751	613	Nothing	6	10488566	0	1			0		other	0
+751	614	Nothing	19	10498613	0	1			0		miss	0
+751	615	Nothing	5	10528411	0	1			0		other	0
+751	616	Sound	0	10529424	0	2			0		other	0
+751	617	Nothing	6	10549437	0	1			0		other	0
+751	618	Nothing	19	10559479	0	1			0		miss	0
+751	620	Nothing	5	10585501	0	1			0		other	0
+751	621	Sound	0	10586514	0	2			0		other	0
+751	622	Nothing	6	10606527	0	1			0		other	0
+751	623	Nothing	19	10616571	0	1			0		miss	0
+751	624	Nothing	5	10672576	0	1			0		other	0
+751	625	Sound	0	10673590	0	2			0		other	0
+751	626	Nothing	6	10693603	0	1			0		other	0
+751	627	Nothing	19	10703652	0	1			0		miss	0
+751	628	Nothing	5	10764870	0	1			0		other	0
+751	629	Sound	0	10765883	0	2			0		other	0
+751	630	Nothing	6	10785896	0	1			0		other	0
+751	631	Nothing	19	10795942	0	1			0		miss	0
